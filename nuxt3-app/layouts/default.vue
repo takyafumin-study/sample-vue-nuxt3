@@ -1,7 +1,7 @@
 <template>
   <div>
     <slot name="header" />
-    <nav>ナビゲーション</nav>
+    <Navbar />
     <slot />
   </div>
 </template>
