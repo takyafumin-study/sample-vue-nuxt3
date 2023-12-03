@@ -3,8 +3,9 @@
 <template>
   <div>
     <h1>Main Page</h1>
-    <a href="/about">about</a>
+    <a href="/about">about</a><br>
+    <a href="/custom">custom</a><br>
+    <a href="/page-switch">page-switch</a><br>
   </div>
 </template>
 
-<style scoped></style>

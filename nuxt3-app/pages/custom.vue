@@ -1,6 +1,8 @@
 <template>
   <div>
-    <h1>About Page</h1>
+    <NuxtLayout name="custom">
+      <h1>Custom Page</h1>
+    </NuxtLayout>
   </div>
 </template>
 
@@ -9,3 +11,4 @@ definePageMeta({
   layout: false
 })
 </script>
+
